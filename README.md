@@ -29,11 +29,14 @@ ARCHIVOS:
 - PanamaHitek_Arduino-3.0.0.jar : es la libreria necesaria para poder hacer la coneccion con arduino, se pone en el proyecto de java Netbeans.
 
 Conexiones por separado de cada componente:
+Esquema de la conexion de la pantalla LCD con el LM35:
 ![Esquema de la conexion con la pantalla LCD](https://github.com/Sarahi-Perez/Display-serial/blob/master/LCD-LM35.jpg "Esquema de la conexion con la pantalla LCD y el LM35")
 
+Esquema de la conexion de los leds con el RTC:
 ![Esquema de Leds con RTC](https://github.com/Sarahi-Perez/Display-serial/blob/master/LEDS-RTC.jpg
  "Esquema de leds con RTC")
  
+ Esquema de la conexion del buzzer:
 ![Esquema del buzzer](https://github.com/Sarahi-Perez/Display-serial/blob/master/Buzzer.jpg "Esquema de la conexion del buzzer")
  
  ![Interfaz en Java](https://github.com/Sarahi-Perez/Display-serial/blob/master/java-arduino.jpg "Interfaz en Java")
